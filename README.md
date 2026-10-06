@@ -40,6 +40,8 @@
 
 <div>
 
+<div>
+
 <h1 align="center">⚒️ Tools and Technologies I Use ⚒️</h1>
 
 <br/>
@@ -49,11 +51,15 @@ Languages :
 <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" />
 <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" />
 <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" />
 </h3>
 
 <h3 align="left">
-Frontend :
+Libraries and Frameworks :
 <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
 </h3>
 
 <h3 align="left">
@@ -65,17 +71,17 @@ Tools and Utilities :
 </h3>
 
 <h3 align="left">
+Hosting and Deployment :
+<img src="https://skillicons.dev/icons?i=netlify" title="Netlify" alt="Netlify" />
+<img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
+</h3>
+
+<h3 align="left">
 Operating System :
 <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" />
 </h3>
 
 </div>
-
-<br/>
-
-<hr/>
-
-<div align="center">
 
 <h1>---------------- Contributions ----------------</h1>
 
