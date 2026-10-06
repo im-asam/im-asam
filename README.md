@@ -12,9 +12,9 @@
 
 <div align="center">
 
-🌱 I'm currently learning **React**
+🌱 I'm currently learning **Next.js**
 
-💻 I'm practicing **HTML, CSS and JavaScript**
+💻 I'm practicing **HTML, CSS, JavaScript and React**
 
 🎯 I'm working toward becoming a **professional Full-Stack Web Developer**
 
