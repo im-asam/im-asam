@@ -83,9 +83,9 @@ Operating System :
 <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" />
 </h3>
 
-</div>
+<div align="center">
 
-<h1>---------------- Contributions ----------------</h1>
+<h1>--------------------- Contributions ---------------------</h1>
 
 <br/>
 
