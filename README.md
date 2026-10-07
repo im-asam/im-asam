@@ -1,4 +1,6 @@
-<img src="./assets/github-header-banner.png" />
+<p align="center">
+  <img src="./github-banner.png" alt="Asam Uddin GitHub Banner" width="100%">
+</p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=im-asam.im-asam" />
 
